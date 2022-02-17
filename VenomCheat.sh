@@ -9,8 +9,8 @@ OS="all" #-o
 VERS="1.0.0"
 Arch="all" #a
 Encoded="8" #e
-Start="n" #s
-Guided="y" #g
+Start="y" #s
+Guided="n" #g
 
 #border function
 border()
