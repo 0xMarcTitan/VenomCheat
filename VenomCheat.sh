@@ -10,7 +10,7 @@ VERS="1.0.0"
 Arch="all" #a
 Encoded="8" #e
 Start="n" #s
-Guided="n" #g
+Guided="y" #g
 
 #border function
 border()
