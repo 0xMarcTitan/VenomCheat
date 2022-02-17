@@ -83,7 +83,6 @@ exit_abnormal() {
 }
 
 
-
 #Get opts
 while getopts "i:g:o:p:a:n:e:s:h" options; do
   case "${options}" in
