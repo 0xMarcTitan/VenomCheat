@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to VenomCheat 👋</h1>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/badge/version-1.1.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/theirsecurity/venomcheat" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
@@ -8,7 +8,7 @@
 
 > This script uses MSFVenom and Pentest Monkey's Reverese PHP shell to automatically generate a set of reverse shells based on the options you choose.
 
-### 🏠 [Homepage](https://github.com/theirsecurity/hashcloud)
+### 🏠 [Homepage](https://github.com/theirsecurity/venomcheat)
 
 ## Install
 
@@ -24,6 +24,10 @@ In Version 1.0.0 all reverse shells will be generated using the same Local Port.
 
 If you want to use the guided mode start with ./VenomCheat.sh -g y
 This will let you specify what you want to be generated
+
+## Using Ngrok?
+
+If you want to use this with Ngrok, set the IP and Port as your Ngrok forwarded address and port, then when you run script, it will ask what port these were forwarded to.
 
 ## Usage
 
