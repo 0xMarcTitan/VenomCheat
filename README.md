@@ -8,12 +8,10 @@
 
 > This script uses MSFVenom and Pentest Monkey's Reverese PHP shell to automatically generate a set of reverse shells based on the options you choose.
 
-### 🏠 [Homepage](https://github.com/theirsecurity/venomcheat)
-
 ## Install
 
 ```sh
-git clone https://github.com/theirsecurity/VenomCheat
+git clone https://github.com/0xMarcTitan/VenomCheat
 ```
 
 ## Sequential Port Numbering
@@ -72,7 +70,6 @@ This will show the options used, everything it created, each files location and 
 
 ## Author
 
-👤 **Marc@theirsecurity.com**
+👤 **Marc**
 
-* Website: https://theirsecurity.com
-* Github: [@theirsecurity](https://github.com/theirsecurity)
+
